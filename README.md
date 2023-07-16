@@ -22,3 +22,10 @@
 `pip intall -e .`
 
 Открываем ноутбук `notebooks/report.ipynb` и работаем.
+
+## Результаты
+|Метрика      | Значение |
+| ---      | ---       |
+| Гипотеза     | Обычный сверточный энкодер,<br />Transposed Convlution декодер     |
+| MSE Test loss autoencoder | `5.5e-5`         |
+| Test Accuracy Classifier     | `0.5442`        |
